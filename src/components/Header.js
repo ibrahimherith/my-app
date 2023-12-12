@@ -1,5 +1,5 @@
 const Header = () => {
-  return <div>This is the first component</div>;
+  return <div></div>;
 };
 
 export default Header;
